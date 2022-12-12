@@ -6,8 +6,6 @@ public class Meal {
 	private double actualCost;
 	private boolean maxBudgetGiven;
 	
-	
-
 	public Meal() {
 		super();
 		this.maxBudgetGiven = false;

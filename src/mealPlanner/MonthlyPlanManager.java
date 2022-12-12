@@ -2,6 +2,9 @@ package mealPlanner;
 
 import java.util.HashMap;
 
+/** 
+* Creates a hashmap holding monthly spending and budgeting details
+*/
 public class MonthlyPlanManager {
 	
 	private HashMap<Integer, MonthlyPlan> monthlyPlans;

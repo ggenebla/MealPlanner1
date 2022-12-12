@@ -4,6 +4,9 @@ import java.util.HashMap;
 import java.util.Calendar;
 import java.util.Date;
 
+/** 
+* Creates a hashmap holding daily spending and budgeting details
+*/
 public class DailyPlanManager {
 
 	private HashMap<Date, DailyPlan> dailyPlans;
